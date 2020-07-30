@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("../../images/banner.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  align-items: center;
+}
+
+.banner p {
+  color:#f6aa1c;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  color:#bc3908;
+}
